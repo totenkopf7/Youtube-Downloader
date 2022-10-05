@@ -5,10 +5,10 @@ Youtube Downloader is an application written in Python3, it downloads single You
 Graphical User Interface is designed friendly to be used easily by users.
 
 # Dependency
-Youtube Downloaders relies on (ffmpeg) program to run properly on Windows and Linux devices. However the application itself will check whether your system has (ffmpeg) or not, and will work accordingly, if there's no (ffmpeg), it will downlaod it for you and place it in the designated directory.
+- Youtube Downloaders relies on (ffmpeg) program to run properly on Windows and Linux devices. However the application itself will check whether your system has (ffmpeg) or not, and will work accordingly, if there's no (ffmpeg), it will downlaod it for you and place it in the designated directory. 
+- Moreover, you can directly download and install ffmpeg beforehand from this link: https://www.dropbox.com/s/ur8miwz54us8ruc/ffmpeg.exe?dl=1
 
 # Run
-
 C:\VersionofYourPython\python.exe main.py
 
 # Installation using command line
