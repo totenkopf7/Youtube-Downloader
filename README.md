@@ -9,7 +9,7 @@ Graphical User Interface is designed friendly to be used easily by users.
 - Moreover, you can directly download and install ffmpeg beforehand from this link: https://www.dropbox.com/s/ur8miwz54us8ruc/ffmpeg.exe?dl=1
 
 # Run
-C:\VersionofYourPython\python.exe main.py
+In the directory where the YT-Downloader.py is located in, type C:\VersionofYourPython\python.exe main.py
 
 # Installation using command line
 You need to have python and pyinstaller installed in your system beforehand and then run this code:
